@@ -2,7 +2,7 @@
 
 #### About Me
 
-As a Data Science YouTuber with over 90K subscribers, I am passionate about teaching others how to master Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Data Analysis. With over 100 repositories on GitHub, I am committed to sharing my knowledge and experience in these areas. My repositories include a wide range of projects, from simple examples to complex applications, all designed to help learners of all levels. With over 1.8k followers on GitHub, I am constantly engaged with the community, sharing insights and responding to questions. If you are interested in Data Science and looking to improve your skills, be sure to check out my repositories and YouTube channel.
+As a Data Science YouTuber with over 130K+ subscribers, I am passionate about teaching others how to master Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Data Analysis. With over 100 repositories on GitHub, I am committed to sharing my knowledge and experience in these areas. My repositories include a wide range of projects, from simple examples to complex applications, all designed to help learners of all levels. With over 1.8k followers on GitHub, I am constantly engaged with the community, sharing insights and responding to questions. If you are interested in Data Science and looking to improve your skills, be sure to check out my repositories and YouTube channel.
 
 ## My Github Stats
 
