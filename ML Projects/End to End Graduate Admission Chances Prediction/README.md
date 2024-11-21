@@ -1,6 +1,8 @@
 # 🎓🏫Graduate Admission Chances Prediction
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prarthanasingh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prarthanasingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ps3493049) 
 
+## **`Model-`** [Use here](https://graduate-m8fv.onrender.com)
+
 ![image](https://github.com/user-attachments/assets/c582ce29-2653-49c1-a608-f02f366e9b82)
 
 **Context:** This dataset is created for prediction of Graduate Admissions from an Indian perspective.
