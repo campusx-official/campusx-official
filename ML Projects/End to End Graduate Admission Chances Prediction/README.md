@@ -1,5 +1,5 @@
 # 🎓🏫Graduate Admission Chances Prediction
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prarthanasingh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prarthanasingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ps3493049) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prarthanasingh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prarthanasingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ps3493049) [![kaggle](https://img.shields.io/badge/kaggle-blue.svg?logo=&logoColor=wh)](https://www.kaggle.com/prarthanasinghsengar) 
 
 ## **`Model-`** [Use here](https://graduate-m8fv.onrender.com)
 
